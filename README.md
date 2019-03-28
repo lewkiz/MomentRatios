@@ -1,2 +1,3 @@
-# MomentRatios
-Estimates the Bootstraped Moment-Ratios
+# Moment Ratios
+Following the setup in Lo and Mackinley (1988), we can also construct moment-ratio tests for skewness and kurtosis. Need to link, can't seem to add equations in the .md file...
+
