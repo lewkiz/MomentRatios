@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import pandas as pd
 import numpy as np
 import os
@@ -6,9 +5,6 @@ import scikits.bootstrap as boot
 from scipy.stats import kurtosis
 from scipy.stats import skew
 
-pd.set_option("display.max_columns", 50)
-pd.set_option('max_rows', 20)
-pd.set_option('display.width', 140)
 projectPath = 'F:\\Dropbox\\SSE\\PROJECTS' 
 
 df = pd.read_pickle('1926_FF_daily_merged_factors.pkl')
